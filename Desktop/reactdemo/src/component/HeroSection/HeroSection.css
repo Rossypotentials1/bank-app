@@ -1,0 +1,28 @@
+.hero{
+    display: flex;
+    margin-top: 50px;
+}
+
+.sub, .girlImage{
+    width: 50%;
+}
+
+.girlImage img{
+    width: -webkit-fill-available;;
+}
+.luxeAssistance{
+    text-transform: capitalize;
+    width: 70%;
+    /* text-align: justify; */
+    /* font-size: 120px;
+    font-weight: 400px; */
+}
+.button{
+    /* margin-bottom: 20vh; */
+    margin-top: 7vh;
+}
+.lux{
+    color: rgb(225, 49, 79);
+}
+
+

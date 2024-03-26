@@ -1,0 +1,21 @@
+.menuDiv{
+    width: 40%;
+
+}
+
+.menuUnorderList{
+    list-style: none;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    padding-right: 10vh;
+}
+
+

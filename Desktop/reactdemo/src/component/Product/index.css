@@ -1,0 +1,26 @@
+
+.brand{
+    margin-top: 30px;
+    width: 220px;
+}
+.uiux{
+    margin-left: 50px;
+}
+.productDesignDiv{
+    margin-left: 50px;
+    margin-top: 5px;
+
+}
+
+.productContain{
+    display: flex;
+}
+.lorem{
+    font-size: 12px;
+    margin-top: 10px;
+}
+/* .product{
+margin: 30px 100px;
+display: flex;
+justify-content: space-between;
+} */
